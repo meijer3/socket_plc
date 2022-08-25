@@ -47,13 +47,13 @@ Non-important (but nice to have) data
 
 |  #  |             Cable             |                          Color&nbsp; &nbsp; &nbsp;                          |      Funtion      |
 | :-: | :---------------------------: | :-------------------------------------------------------------------------: | :---------------: |
-|  1  | WhiteOrange&nbsp;&nbsp;&nbsp; | <img src="readme_resources\rj45\WhiteOrange.jpg" style="max-width:60px;" /> | Return of Pulse 1 |
-|  2  |            Orange             |   <img src="readme_resources\rj45\Orange.jpg" style="max-width:60px;" />    | Return of Pulse 2 |
-|  3  |          WhiteGreen           | <img src="readme_resources\rj45\WhiteGreen.jpg" style="max-width:60px;" />  |        GND        |
-|  4  |             Blue              |    <img src="readme_resources\rj45\Blue.jpg" style="max-width:60px;" />     |        RX         |
-|  5  |           WhiteBlue           |  <img src="readme_resources\rj45\WhiteBlue.jpg" style="max-width:60px;" />  |        TX         |
-|  6  |             Green             |    <img src="readme_resources\rj45\Green.jpg" style="max-width:60px;" />    |        24v        |
-|  7  |          WhiteBrown           | <img src="readme_resources\rj45\WhiteBrown.jpg" style="max-width:60px;" />  |  Feed of relay 1  |
+|  1  | WhiteOrange&nbsp;&nbsp;&nbsp; | <img src="readme_resources\rj45\whiteOrange.jpg" style="max-width:60px;" /> | Return of Pulse 1 |
+|  2  |            Orange             |   <img src="readme_resources\rj45\orange.jpg" style="max-width:60px;" />    | Return of Pulse 2 |
+|  3  |          WhiteGreen           | <img src="readme_resources\rj45\whiteGreen.jpg" style="max-width:60px;" />  |        GND        |
+|  4  |             Blue              |    <img src="readme_resources\rj45\blue.jpg" style="max-width:60px;" />     |        RX         |
+|  5  |           WhiteBlue           |  <img src="readme_resources\rj45\whiteBlue.jpg" style="max-width:60px;" />  |        TX         |
+|  6  |             Green             |    <img src="readme_resources\rj45\green.jpg" style="max-width:60px;" />    |        24v        |
+|  7  |          WhiteBrown           | <img src="readme_resources\rj45\whiteBrown.jpg" style="max-width:60px;" />  |  Feed of relay 1  |
 |  8  |             Brown             |    <img src="readme_resources\rj45\brown.jpg" style="max-width:60px;" />    |  Feed of relay 2  |
 
 # Design of PCB
