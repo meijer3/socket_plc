@@ -45,16 +45,16 @@ Non-important (but nice to have) data
 
 # Design of ethernet cable.
 
-|  #  |             Cable             |                                                                 Color&nbsp; &nbsp; &nbsp;                                                                  |      Funtion      |
-| :-: | :---------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------: |
-|  1  | WhiteOrange&nbsp;&nbsp;&nbsp; | <img src="readme_resources\rj45.jpg"  style="position: absolute; min-height:100px; clip: rect(5px,192px,15px,0px); transform:translate(-40px, -10px);" />  | Return of Pulse 1 |
-|  2  |            Orange             | <img src="readme_resources\rj45.jpg"  style="position: absolute; min-height:100px; clip: rect(15px,192px,25px,0px); transform:translate(-40px, -20px);" /> | Return of Pulse 2 |
-|  3  |          WhiteGreen           | <img src="readme_resources\rj45.jpg"  style="position: absolute; min-height:100px; clip: rect(26px,192px,36px,0px); transform:translate(-40px, -30px);" /> |        GND        |
-|  4  |             Blue              | <img src="readme_resources\rj45.jpg"  style="position: absolute; min-height:100px; clip: rect(38px,192px,48px,0px); transform:translate(-40px, -40px);" /> |        RX         |
-|  5  |           WhiteBlue           | <img src="readme_resources\rj45.jpg"  style="position: absolute; min-height:100px; clip: rect(48px,192px,58px,0px); transform:translate(-40px, -50px);" /> |        TX         |
-|  6  |             Green             | <img src="readme_resources\rj45.jpg"  style="position: absolute; min-height:100px; clip: rect(59px,192px,69px,0px); transform:translate(-40px, -62px);" /> |        24v        |
-|  7  |          WhiteBrown           | <img src="readme_resources\rj45.jpg"  style="position: absolute; min-height:100px; clip: rect(70px,192px,80px,0px); transform:translate(-40px, -74px);" /> |  Feed of relay 1  |
-|  8  |             Brown             | <img src="readme_resources\rj45.jpg"  style="position: absolute; min-height:100px; clip: rect(80px,192px,90px,0px); transform:translate(-40px, -84px);" /> |  Feed of relay 2  |
+|  #  |             Cable             |                          Color&nbsp; &nbsp; &nbsp;                          |      Funtion      |
+| :-: | :---------------------------: | :-------------------------------------------------------------------------: | :---------------: |
+|  1  | WhiteOrange&nbsp;&nbsp;&nbsp; | <img src="readme_resources\rj45\WhiteOrange.jpg" style="max-width:60px;" /> | Return of Pulse 1 |
+|  2  |            Orange             |   <img src="readme_resources\rj45\Orange.jpg" style="max-width:60px;" />    | Return of Pulse 2 |
+|  3  |          WhiteGreen           | <img src="readme_resources\rj45\WhiteGreen.jpg" style="max-width:60px;" />  |        GND        |
+|  4  |             Blue              |    <img src="readme_resources\rj45\Blue.jpg" style="max-width:60px;" />     |        RX         |
+|  5  |           WhiteBlue           |  <img src="readme_resources\rj45\WhiteBlue.jpg" style="max-width:60px;" />  |        TX         |
+|  6  |             Green             |    <img src="readme_resources\rj45\Green.jpg" style="max-width:60px;" />    |        24v        |
+|  7  |          WhiteBrown           | <img src="readme_resources\rj45\WhiteBrown.jpg" style="max-width:60px;" />  |  Feed of relay 1  |
+|  8  |             Brown             |    <img src="readme_resources\rj45\brown.jpg" style="max-width:60px;" />    |  Feed of relay 2  |
 
 # Design of PCB
 
