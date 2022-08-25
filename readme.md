@@ -9,8 +9,6 @@ This project contains a PCB (concept) that is designed for WAGO PLC200, but shou
 >
 > An second version would be nice to control blinds, and add two buttons to control the blinds locally
 
-.
-
 # Concept
 
 This project has two main concepts which should not be confused.
@@ -43,6 +41,13 @@ Non-important (but nice to have) data
   - Analog input/output
     - Desk
 
+# More Info
+
+- See all PCB designs at: [https://oshwlab.com/meijer3/pling-plc](https://oshwlab.com/meijer3/pling-plc)
+- At Github: https://github.com/meijer3/socket_plc
+
+Alot of thanks to the Dutch Tweakers channel: [Domotica met plc's](https://gathering.tweakers.net/forum/list_messages/1632953)
+
 # Design of ethernet cable.
 
 |  #  |             Cable             |                          Color&nbsp; &nbsp; &nbsp;                          |      Funtion      |
@@ -60,9 +65,9 @@ Non-important (but nice to have) data
 
 <img src="readme_resources\pling_relays_schema.png"  />
 
-My [easyEDA](https://easyeda.com/editor#id=6322c5ac72684001988da50a786b0ca6|d3c61f0f50fa44159afa5726d664ce04) design. I am not a great PCB builder. So please help me out.
+This is the first design. I am not a great PCB builder. So please help me out. [https://oshwlab.com/meijer3/pling-plc](https://oshwlab.com/meijer3/pling-plc)
 
-### More info
+### Some bookmarks that can be interesting
 
 [Buck converter 24 - 3.3](https://electronicsworkshops.com/2021/01/02/design-of-24v-to-3-3v-buck-converter/)
 
